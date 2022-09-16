@@ -1,1 +1,5 @@
-layout: page title: "BellyButtonPage" permalink: /https://weirdfishez.github.io/bellybutton
+---
+title: PAGE TITLE HERE
+layout: template
+filename: NAME OF THIS .md FILE HERE
+--- 

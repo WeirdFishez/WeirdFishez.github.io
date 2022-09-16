@@ -1,5 +1,5 @@
 ---
-title: PAGE TITLE HERE
-layout: template
-filename: NAME OF THIS .md FILE HERE
+title: BellyButtonPage
+layout: bellyButtonPage.html
+filename: bellyButtonPage.md
 --- 

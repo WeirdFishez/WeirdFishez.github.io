@@ -10,7 +10,7 @@ h1 {
 
 .name {
   font-size:4em;
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Futara Condensed', sans-serif;
   font-weight: 300;
 }
 
@@ -227,7 +227,7 @@ footer a {
 	 border-right: 7px solid #265C7E;
 }
  .btn {
-	 background-color: #265C7E;
+	 background-color: #FBD658;
    border: 2px solid #265C7E;
    color: #fff;
    border-radius: 0;
@@ -251,7 +251,7 @@ footer a {
 		 left: 10%;
 		 margin-left: -6px;
 		 border-left: 0;
-		 border-right: 7px solid #265C7E;
+		 border-right: 7px solid #E9363C;
 	}
 	 #timeline .timeline-item .timeline-icon {
 		 left: 0;

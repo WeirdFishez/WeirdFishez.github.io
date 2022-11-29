@@ -8,6 +8,12 @@ h1 {
   font-weight: 300;
 }
 
+h3 {
+  font-size:2em;
+  font-family: 'Futara', sans-serif;
+  font-weight: 300;
+}
+
 .name {
   font-size:4em;
   font-family: 'Futara Condensed', sans-serif;

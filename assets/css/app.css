@@ -5,7 +5,7 @@ html, body {
 h1 {
   font-size:3em;
   font-family: 'Futara', sans-serif;
-  font-weight: 800;
+  font-weight: 300;
 }
 
 h3 {
@@ -17,7 +17,7 @@ h3 {
 .name {
   font-size:4em;
   font-family: 'Futara Condensed', sans-serif;
-  font-weight: 300;
+  font-weight: 800;
 }
 
 footer {

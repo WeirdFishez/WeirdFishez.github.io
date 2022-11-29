@@ -32,7 +32,7 @@ footer a {
 }
 
 .wave {
-  background: linear-gradient(to left, #00c6ff, #328eff);
+  background: linear-gradient(to left, #00c6ff, #265C7E);
   min-height: 350px;
   color: #fff;
   display: flex;
@@ -82,7 +82,7 @@ footer a {
 }
 
 .container-color {
-  background-color: #328eff;
+  background-color: #265C7E;
 }
 
 .container-dark {
@@ -91,7 +91,7 @@ footer a {
 
 .card-title {
   margin-top: 50px;
-  color: #328eff;
+  color: #265C7E;
   text-align: center;
 }
 
@@ -100,7 +100,7 @@ footer a {
 }
 
 .card-icon{
-  color: #328eff;
+  color: #265C7E;
   font-size: 50px;
 }
 
@@ -174,7 +174,7 @@ footer a {
 	 position: relative;
 }
  #timeline .timeline-item .timeline-icon {
-	 background: #328eff;
+	 background: #265C7E;
 	 width: 50px;
 	 height: 50px;
 	 position: absolute;
@@ -196,7 +196,7 @@ footer a {
 }
  #timeline .timeline-item .timeline-content h2 {
 	 padding: 15px;
-	 background: #328eff;
+	 background: #265C7E;
 	 color: #fff;
 	 margin: -20px -20px 0 -20px;
 	 font-weight: 300;
@@ -227,8 +227,8 @@ footer a {
 	 border-right: 7px solid #328eff;
 }
  .btn {
-	 background-color: #328eff;
-   border: 2px solid #328eff;
+	 background-color: #265C7E;
+   border: 2px solid #265C7E;
    color: #fff;
    border-radius: 0;
 
@@ -251,7 +251,7 @@ footer a {
 		 left: 10%;
 		 margin-left: -6px;
 		 border-left: 0;
-		 border-right: 7px solid #328eff;
+		 border-right: 7px solid #265C7E;
 	}
 	 #timeline .timeline-item .timeline-icon {
 		 left: 0;
@@ -294,7 +294,7 @@ footer a {
   left: 0;
   height: 50px;
   padding: 10px;
-  background: #328eff;
+  background: #265C7E;
   border: 0;
   border-radius: 0;
 }

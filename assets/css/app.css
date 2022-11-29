@@ -20,6 +20,12 @@ h3 {
   font-weight: 800;
 }
 
+.title {
+  font-size:Large;
+  font-family: 'Futara', sans-serif;
+  font-weight: 500;
+}
+
 footer {
   background-color: #0C7FAB;
   color: #fff;

@@ -82,7 +82,7 @@ footer a {
 }
 
 .container-color {
-  background-color: #265C7E;
+  background-color: #0C7FAB;
 }
 
 .container-dark {
@@ -91,7 +91,7 @@ footer a {
 
 .card-title {
   margin-top: 50px;
-  color: #265C7E;
+  color: #0C7FAB;
   text-align: center;
 }
 
@@ -100,7 +100,7 @@ footer a {
 }
 
 .card-icon{
-  color: #265C7E;
+  color: #0C7FAB;
   font-size: 50px;
 }
 
@@ -196,7 +196,7 @@ footer a {
 }
  #timeline .timeline-item .timeline-content h2 {
 	 padding: 15px;
-	 background: #265C7E;
+	 background: #0C7FAB;
 	 color: #fff;
 	 margin: -20px -20px 0 -20px;
 	 font-weight: 300;
@@ -228,7 +228,7 @@ footer a {
 }
  .btn {
 	 background-color: #E9363C;
-   border: 2px solid #265C7E;
+   border: 2px solid #0C7FAB;
    color: #fff;
    border-radius: 0;
 
@@ -294,7 +294,7 @@ footer a {
   left: 0;
   height: 50px;
   padding: 10px;
-  background: #265C7E;
+  background: #0C7FAB;
   border: 0;
   border-radius: 0;
 }

@@ -158,7 +158,7 @@ footer a {
 	 content: "";
 	 width: 3px;
 	 height: 100%;
-	 background: #FBD658;
+	 background: #F0B021;
 	 left: 50%;
 	 top: 0;
 	 position: absolute;
@@ -174,7 +174,7 @@ footer a {
 	 position: relative;
 }
  #timeline .timeline-item .timeline-icon {
-	 background: #FBD658;
+	 background: #F0B021;
 	 width: 50px;
 	 height: 50px;
 	 position: absolute;
@@ -214,7 +214,7 @@ footer a {
 	 height: 0;
 	 border-top: 7px solid transparent;
 	 border-bottom: 7px solid transparent;
-	 border-left: 7px solid #FBD658;
+	 border-left: 7px solid #F0B021;
 }
  #timeline .timeline-item .timeline-content.right {
 	 float: right;
@@ -224,11 +224,11 @@ footer a {
 	 right: 45%;
 	 left: inherit;
 	 border-left: 0;
-	 border-right: 7px solid #FBD658;
+	 border-right: 7px solid #F0B021;
 }
  .btn {
-	 background-color: #E9363C;
-   border: 2px solid #0C7FAB;
+	 background-color: #E86D3C;
+   border: 2px solid #732D0D;
    color: #fff;
    border-radius: 0;
 

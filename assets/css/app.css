@@ -32,7 +32,7 @@ footer a {
 }
 
 .wave {
-  background: linear-gradient(to left, #0C3364, #A1C0D4);
+  background: linear-gradient(to left, #A1C0D4, #0C3364);
   min-height: 350px;
   color: #fff;
   display: flex;

@@ -214,7 +214,7 @@ footer a {
 	 height: 0;
 	 border-top: 7px solid transparent;
 	 border-bottom: 7px solid transparent;
-	 border-left: 7px solid #328eff;
+	 border-left: 7px solid #265C7E;
 }
  #timeline .timeline-item .timeline-content.right {
 	 float: right;
@@ -224,7 +224,7 @@ footer a {
 	 right: 45%;
 	 left: inherit;
 	 border-left: 0;
-	 border-right: 7px solid #328eff;
+	 border-right: 7px solid #265C7E;
 }
  .btn {
 	 background-color: #265C7E;

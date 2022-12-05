@@ -134,6 +134,13 @@ footer a {
     margin-top: 50px;
 }
 
+.school {
+  display: block;
+  height: 60px;
+  margin-right: 20px;
+  float: left;
+}
+
 .start-project-card {
     min-height: 200px;
     width: 100%;

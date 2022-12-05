@@ -50,9 +50,9 @@ footer a {
 }
 
 .wave {
-  background: linear-gradient(to left, #0B514D, #0B514D);
+  background: linear-gradient(to left, #0b514ecc, #0B514D);
   min-height: 350px;
-  color: #fff;
+  color: rgb(255, 255, 255);
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -106,6 +106,7 @@ footer a {
 .container-dark {
   background-color: #031A18;
 }
+
 
 .card-title {
   margin-top: 50px;
@@ -354,4 +355,20 @@ footer a {
   height: 60px;
   padding: 10px;
   background: #f1f3f5;
+}
+
+.header {
+  -moz-transition: background-color 0.2s ease-in-out;
+  -webkit-transition: background-color 0.2s ease-in-out;
+  -ms-transition: background-color 0.2s ease-in-out;
+  transition: background-color 0.2s ease-in-out;
+  background-color: rgba(53, 56, 73, 0.95);
+  height: 3.5em;
+  left: 0;
+  line-height: 3.5em;
+  padding: 0 1.25em;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 10000;
 }
